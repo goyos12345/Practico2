@@ -62,7 +62,6 @@ public class salud {
 					break;
 					
 				case 2:
-					//(Esto lo "sustraje parcialmente" de un código que tenía parecido) Hecho por Yami.
 					System.out.println("Ingresa tu sueldo mensual:");
 					double sueldo = sc.nextInt();
 					int days;
